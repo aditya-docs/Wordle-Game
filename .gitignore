@@ -1,0 +1,5 @@
+.DS_Store
+start/node_modules
+.vscode/
+start/.parcel-cache/
+start/dist/
